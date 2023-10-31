@@ -19,6 +19,6 @@ body{
 .cabecario{
     background-color: black;
     padding: 20px;
-    width: 20px;
+    width: 100%;
     border: 20px;
 }
