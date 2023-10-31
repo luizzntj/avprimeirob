@@ -20,6 +20,6 @@ body{
     background-color: black;
     padding: 20px;
     width: 100%;
-    border: 20px;
-    border-color: chartreuse;
+    border: 200px;
+    border-color: rgb(128, 255, 0);
 }
